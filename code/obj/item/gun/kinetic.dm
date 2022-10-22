@@ -1074,6 +1074,7 @@ ABSTRACT_TYPE(/obj/item/gun/kinetic/single_action)
 	spread_angle = 1
 	max_ammo_capacity = 7
 	default_magazine = /obj/item/ammo/bullets/c_45
+	gildable = TRUE
 
 	detective
 		name = "\improper Peacemaker"
